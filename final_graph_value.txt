@@ -1,0 +1,80 @@
+Autumn:
+week 47 (22.11-28.11): to consider
+pcr count: 1575094, 13691 
+avg: 3.94
+
+week 46: 
+pcr count: 1487445, 10013 
+avg: 3.8
+
+week 48:
+pcr count: 1675764, 14614 
+avg: 4.8
+
+week 49:
+pcr count: 1770907, 12569 
+avg: 4.16
+
+----------------------------------
+winter:
+week 07 (13.02-19.02): to consider
+pcr count: 3545908, 50342  ----------- 7191.7
+avg: 6.2
+
+week 06: 
+pcr count: 3193483, 52157 
+avg: 7.16
+
+week 08:
+pcr count: 3874354, 44115 
+avg: 6.47
+
+week 09:
+pcr count: 4190912, 49572 
+avg: 6.47
+
+--------------------------------------
+
+spring:
+1. temperature week:
+week 09 (01.03 - 07.03): to consider
+pcr count: 233, 4295400, 54203
+avg: 6.47
+
+week 08 (22.02-28.02):
+pcr count: 233, 3961633, 43071 
+avg: 6.47
+
+week 10 (08.03-14.03):
+pcr count: 311, 4725754, 63681
+avg: 8.63
+
+week 11 (15.03-21.03):
+pcr count: 275, 5217489, 72116 
+avg: 8.63
+
+2. relative humidity week:
+week 13 (30.03-05.04):
+pcr count: 322, 6342861, 65455
+hosp: 617
+avg: 8.994
+
+week 12(23.03 - 29.03):
+pcr count: 281, 5830731, 81712 
+hosp: 594
+avg: 7.8
+
+week 14(06.04-12.04):
+pcr count: 317, 6741026, 50820
+hosp: 613
+avg: 8.8
+
+week 15(13.04-19.04):
+pcr count: 274, 7023002, 31172
+hosp: 337
+avg: 7.6
+-----------------------------------------------------------------
+
+
+
+

@@ -1,0 +1,17 @@
+,CorrelationMethod,Season,Covid_Column,Weather_Column,Correlation,Significance_value,Significance
+0,Kendall-Tau,Winter,Current_Infected,relative_humidity,-0.4577,1.6755794750688658e-10,True
+1,Kendall-Tau,Winter,Current_Infected_lag_-1,relative_humidity,-0.4697,5.5359877136578295e-11,True
+2,Kendall-Tau,Winter,Current_Infected_lag_-2,relative_humidity,-0.4687,6.077577236210083e-11,True
+3,Kendall-Tau,Winter,Current_Infected_lag_-3,relative_humidity,-0.4712,4.8110187560137476e-11,True
+4,Kendall-Tau,Winter,Current_Infected_lag_-4,relative_humidity,-0.4811,1.8667864227509035e-11,True
+5,Kendall-Tau,Winter,Current_Infected_lag_-5,relative_humidity,-0.5016,2.525676944516696e-12,True
+6,Kendall-Tau,Winter,Current_Infected_lag_-6,relative_humidity,-0.5011,2.6544841893222835e-12,True
+7,Kendall-Tau,Winter,Current_Infected_lag_-7,relative_humidity,-0.4936,5.565828339016184e-12,True
+8,Spearmann,Winter,Current_Infected,relative_humidity,-0.646,6.198895095559201e-12,True
+9,Spearmann,Winter,Current_Infected_lag_-1,relative_humidity,-0.6611,1.320614030100804e-12,True
+10,Spearmann,Winter,Current_Infected_lag_-2,relative_humidity,-0.6634,1.041551529674409e-12,True
+11,Spearmann,Winter,Current_Infected_lag_-3,relative_humidity,-0.6663,7.627866947735173e-13,True
+12,Spearmann,Winter,Current_Infected_lag_-4,relative_humidity,-0.6743,3.223704318998039e-13,True
+13,Spearmann,Winter,Current_Infected_lag_-5,relative_humidity,-0.6919,4.3263739608593824e-14,True
+14,Spearmann,Winter,Current_Infected_lag_-6,relative_humidity,-0.6873,7.351278507946707e-14,True
+15,Spearmann,Winter,Current_Infected_lag_-7,relative_humidity,-0.684,1.0846848533117041e-13,True

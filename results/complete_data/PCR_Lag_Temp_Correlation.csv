@@ -1,0 +1,17 @@
+,CorrelationMethod,Season,Covid_Column,Weather_Column,Correlation,Significance_value,Significance
+0,Kendall-Tau,Total,PCR_Postive_Count,temperature,-0.1037,0.004757229324109644,True
+1,Kendall-Tau,Total,PCR_Postive_Count_lag_-1,temperature,-0.1017,0.0056085695674670455,True
+2,Kendall-Tau,Total,PCR_Postive_Count_lag_-2,temperature,-0.1084,0.003171480334857075,True
+3,Kendall-Tau,Total,PCR_Postive_Count_lag_-3,temperature,-0.1224,0.0008595871799727429,True
+4,Kendall-Tau,Total,PCR_Postive_Count_lag_-4,temperature,-0.1211,0.0009775869647492567,True
+5,Kendall-Tau,Total,PCR_Postive_Count_lag_-5,temperature,-0.1149,0.001757408391292976,True
+6,Kendall-Tau,Total,PCR_Postive_Count_lag_-6,temperature,-0.1065,0.0037448999100544557,True
+7,Kendall-Tau,Total,PCR_Postive_Count_lag_-7,temperature,-0.0985,0.0073151162905807105,True
+8,Spearmann,Total,PCR_Postive_Count,temperature,-0.1486,0.006590834974393518,True
+9,Spearmann,Total,PCR_Postive_Count_lag_-1,temperature,-0.1472,0.007116985761872158,True
+10,Spearmann,Total,PCR_Postive_Count_lag_-2,temperature,-0.1621,0.0030115449633394673,True
+11,Spearmann,Total,PCR_Postive_Count_lag_-3,temperature,-0.1798,0.0009833437733848002,True
+12,Spearmann,Total,PCR_Postive_Count_lag_-4,temperature,-0.1779,0.0011149189716996302,True
+13,Spearmann,Total,PCR_Postive_Count_lag_-5,temperature,-0.1654,0.002462343330634561,True
+14,Spearmann,Total,PCR_Postive_Count_lag_-6,temperature,-0.1524,0.005313870075660225,True
+15,Spearmann,Total,PCR_Postive_Count_lag_-7,temperature,-0.1375,0.012037483632380193,True

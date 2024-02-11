@@ -1,0 +1,7 @@
+,CorrelationMethod,Season,Covid_Column,Temperature,Relative_Humidity,Multiple_Correlation
+0,Kendall-Tau,Autumn,PCR_Postive_Count,-0.2884,0.158,0.2793
+1,Kendall-Tau,Autumn,Deceased,-0.3282,0.2736,0.2738
+2,Kendall-Tau,Autumn,Total_Confirmed,-0.7649,0.4974,0.5952
+3,Spearmann,Autumn,PCR_Postive_Count,-0.4444,0.2583,0.5328
+4,Spearmann,Autumn,Deceased,-0.4421,0.3768,0.4948
+5,Spearmann,Autumn,Total_Confirmed,-0.9263,0.7082,0.8563

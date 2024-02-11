@@ -1,0 +1,15 @@
+,CorrelationMethod,Season,Covid_Column,Correlation
+0,Kendall-Tau,Autumn,PCR_Postive_Count,0.2267
+1,Kendall-Tau,Autumn,PCR_Positive_Hospitalised,0.2099
+2,Kendall-Tau,Autumn,Deceased,0.2102
+3,Kendall-Tau,Spring,PCR_Postive_Count,0.0194
+4,Kendall-Tau,Winter,PCR_Postive_Count,0.0338
+5,Kendall-Tau,Winter,PCR_Positive_Hospitalised,0.0339
+6,Kendall-Tau,Summer,PCR_Postive_Count,0.1835
+7,Spearmann,Autumn,PCR_Postive_Count,0.4396
+8,Spearmann,Autumn,PCR_Positive_Hospitalised,0.4067
+9,Spearmann,Autumn,Deceased,0.4057
+10,Spearmann,Spring,PCR_Postive_Count,0.0448
+11,Spearmann,Winter,PCR_Postive_Count,0.0712
+12,Spearmann,Winter,PCR_Positive_Hospitalised,0.0719
+13,Spearmann,Summer,PCR_Postive_Count,0.3648

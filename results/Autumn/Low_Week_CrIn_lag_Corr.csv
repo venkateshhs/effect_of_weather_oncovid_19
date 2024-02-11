@@ -1,0 +1,17 @@
+,CorrelationMethod,Season,Covid_Column,Weather_Column,Correlation,Significance_value,Significance
+0,Kendall-Tau,Lowest_Autumn_week,Current_Infected,temperature,-0.033,0.9144846237132943,False
+1,Kendall-Tau,Lowest_Autumn_week,Current_Infected_lag_-1,temperature,-0.0769,0.7471887597172815,False
+2,Kendall-Tau,Lowest_Autumn_week,Current_Infected_lag_-2,temperature,0.0989,0.667174486232646,False
+3,Kendall-Tau,Lowest_Autumn_week,Current_Infected_lag_-3,temperature,0.011,1.0,False
+4,Kendall-Tau,Lowest_Autumn_week,Current_Infected_lag_-4,temperature,-0.033,0.9144846237132943,False
+5,Kendall-Tau,Lowest_Autumn_week,Current_Infected_lag_-5,temperature,-0.033,0.9144846237132943,False
+6,Kendall-Tau,Lowest_Autumn_week,Current_Infected_lag_-6,temperature,0.0549,0.8299103030594847,False
+7,Kendall-Tau,Lowest_Autumn_week,Current_Infected_lag_-7,temperature,0.011,1.0,False
+8,Spearmann,Lowest_Autumn_week,Current_Infected,temperature,-0.0286,0.9227613765698746,False
+9,Spearmann,Lowest_Autumn_week,Current_Infected_lag_-1,temperature,-0.0154,0.9583697893719862,False
+10,Spearmann,Lowest_Autumn_week,Current_Infected_lag_-2,temperature,0.1912,0.5125839704707785,False
+11,Spearmann,Lowest_Autumn_week,Current_Infected_lag_-3,temperature,0.0505,0.8637420361792153,False
+12,Spearmann,Lowest_Autumn_week,Current_Infected_lag_-4,temperature,-0.0242,0.9346189946036425,False
+13,Spearmann,Lowest_Autumn_week,Current_Infected_lag_-5,temperature,-0.0462,0.875502537632114,False
+14,Spearmann,Lowest_Autumn_week,Current_Infected_lag_-6,temperature,0.0769,0.7938058883554533,False
+15,Spearmann,Lowest_Autumn_week,Current_Infected_lag_-7,temperature,0.0593,0.8403017626906826,False

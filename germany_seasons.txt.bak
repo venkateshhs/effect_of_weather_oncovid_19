@@ -1,0 +1,31 @@
+Germany seasons:
+
+Spring: March to May. 
+Summer: June to August
+Autumn: September, October, and November. 
+Winters: December to February.
+
+
+"""
+Spr_mon = ['2022KW09','2022KW10','2022KW11','2022KW12','2022KW13','2022KW14','2022KW15','2022KW16','2022KW17','2022KW18','2022KW19','2022KW20']
+data_spring = data[data['Week'].isin(Spr_mon)]
+"""
+
+"""
+Win_mon = ['2021KW48','2021KW49','2021KW50','2021KW51','2021KW52','2022KW01','2022KW02','2022KW03','2022KW04','2022KW05','2022KW06','2022KW07','2022KW08']
+data_winter = data[data['Week'].isin(Win_mon)]
+"""
+
+#Aut_mon = ['2021KW39','2021KW40','2021KW41','2021KW42','2021KW43','2021KW44','2021KW45','2021KW46','2021KW47']
+
+
+
+#Aggregating the Covid Data for the whole state RLP
+Covid_Data_avg = Covid_Data1.groupby(['Date']).agg({'PCR_Postive_Count' : 'sum', 'PCR_Positive_Hospitalised' : 'sum',
+                                                     'Deceased' : 'sum','Total_Confirmed' : 'sum',
+                                             'temperature' : 'mean', 'wind_speed' : 'mean', 'relative_humidity': 'mean',
+                                            }).reset_index()
+Covid_Data_avg
+
+
+

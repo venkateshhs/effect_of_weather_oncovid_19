@@ -1,0 +1,15 @@
+,CorrelationMethod,Season,Covid_Column,Correlation,Individual_correlation_column,Correlation
+0,Kendall-Tau,Autumn,PCR_Postive_Count,0.2267,temperature,-0.1884
+1,Kendall-Tau,Autumn,PCR_Positive_Hospitalised,0.2099,temperature,-0.0989
+2,Kendall-Tau,Autumn,Deceased,0.2102,temperature,-0.1123
+3,Kendall-Tau,Spring,PCR_Postive_Count,0.0194,temperature,-0.1358
+4,Kendall-Tau,Winter,PCR_Postive_Count,0.0338,relative_humidity,-0.1975
+5,Kendall-Tau,Winter,PCR_Positive_Hospitalised,0.0339,relative_humidity,-0.0822
+6,Kendall-Tau,Summer,PCR_Postive_Count,0.1835,temperature,0.1305
+7,Spearmann,Autumn,PCR_Postive_Count,0.4396,temperature,-0.282
+8,Spearmann,Autumn,PCR_Positive_Hospitalised,0.4067,temperature,-0.129
+9,Spearmann,Autumn,Deceased,0.4057,temperature,-0.1385
+10,Spearmann,Spring,PCR_Postive_Count,0.0448,temperature,-0.2055
+11,Spearmann,Winter,PCR_Postive_Count,0.0712,relative_humidity,-0.2922
+12,Spearmann,Winter,PCR_Positive_Hospitalised,0.0719,relative_humidity,-0.1099
+13,Spearmann,Summer,PCR_Postive_Count,0.3648,temperature,0.1928
